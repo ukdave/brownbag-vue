@@ -1,0 +1,11 @@
+{
+  "name": "vue",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "serve": "browser-sync start --server src --files src --no-ui --no-notify"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
